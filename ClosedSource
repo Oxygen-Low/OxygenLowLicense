@@ -1,0 +1,146 @@
+Oxygen Low License Closed Source (OLLCS-1.0)
+==================================
+
+Copyright (c) [year] [copyright owner]
+
+IMPORTANT — READ CAREFULLY: This is a license agreement that grants limited,
+non-exclusive rights to use the software under the terms below. By receiving,
+installing, copying, or otherwise using the software (the "Software"), you
+agree to be bound by the terms of this License. If you do not agree, do not
+use the Software.
+
+1. Definitions
+--------------
+a. "Software" means the copyrighted work identified above, including all
+   object code, binaries, libraries, and associated documentation provided by
+   the copyright owner.
+
+b. "Source Code" means human-readable form of the Software from which object
+   code is generated, including but not limited to original source files,
+   build scripts that would reveal source, or any comments and design notes.
+
+c. "Distribute" or "Distribution" means any transfer, publication, sale,
+   lease, sublicense, rental, transmission, public performance, or making
+   available to third parties.
+
+2. Grant of rights
+------------------
+Subject to the terms and restrictions of this License, the copyright owner
+hereby grants the licensee a limited, non-exclusive, non-transferable,
+revocable right to:
+   a. Install and execute the Software in object-code/binary form on
+      licensee-controlled systems.
+   b. Make one (1) archival or backup copy of the Software in object-code
+      form solely for the licensee's internal business continuity purposes,
+      provided that all copyright and proprietary legends are preserved.
+
+All other rights are reserved by the copyright owner unless expressly granted
+in writing.
+
+3. Restrictions (no source distribution; no decompiling)
+--------------------------------------------------------
+a. No Source Distribution. Except as expressly permitted in writing by the
+   copyright owner, the licensee shall not, and shall ensure no third party
+   shall, directly or indirectly:
+     i. Distribute, publish, transmit, disclose, or otherwise make available
+        the Source Code of the Software to any third party in any form;
+     ii. Bundle, include, or make available the Source Code within any
+        product or package distributed to third parties.
+
+b. No Reverse Engineering or Decompilation. The licensee shall not, and
+   shall ensure no third party shall, directly or indirectly, attempt to:
+     i. Reverse engineer, decompile, disassemble, decrypt, or otherwise
+        attempt to derive the Source Code or underlying algorithms and
+        logic of the Software from object code, binaries, or other forms of
+        the Software; or
+     ii. Use tools, services, or processes intended to reconstruct, derive,
+         or obtain Source Code from the Software.
+   The foregoing restriction is subject to any limitation imposed by
+   applicable law that cannot be waived by contract; to the extent such law
+   requires reverse engineering or decompilation for interoperability or
+   other mandated purposes, that activity is permitted only to the extent
+   required by law and the results may not be distributed.
+
+c. No Removal of Proprietary Notices. The licensee must not remove or
+   obscure any copyright, trademark, or proprietary notices included with
+   the Software.
+
+d. No Sublicensing. The licensee may not sublicense the Software except as
+   expressly permitted in writing by the copyright owner.
+
+4. Distribution of object code
+------------------------------
+If the copyright owner expressly permits distribution of object-code
+(binaries) under a separate written agreement, any distributed copy of the
+object code must include this License and the copyright notice in an
+accompanying location (for example, in the same folder as the distributed
+binary, in package metadata, or in distribution documentation). Inclusion of
+the object code in a larger work does not require the larger work to be
+licensed under this License unless expressly stated in writing by the
+copyright owner.
+
+5. Attribution and claims of authorship
+--------------------------------------
+a. You must not misrepresent the origin of the Software. You may not claim
+   to be the original author of the Software unless you are.
+
+b. If you create modifications to the Software for your own internal use,
+   you must not remove or alter existing author attribution. If you
+   distribute a modified binary only with the copyright owner’s written
+   permission, you should include a clear statement identifying the
+   modifications and their authors.
+
+c. Any false claim of original authorship of the Software is a material
+   breach of this License and will result in immediate termination of the
+   rights granted hereunder.
+
+6. Patents
+----------
+No patent rights are granted by implication under this License. Any patent
+license, if granted, must be expressly stated in writing by the copyright
+owner.
+
+7. Disclaimer of warranty; no warranty unless stated
+---------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, EXCEPT TO THE EXTENT
+THAT A WARRANTY IS PROVIDED IN WRITING BY THE COPYRIGHT OWNER. Unless an
+express, written warranty is provided by the copyright owner, no warranty is
+granted.
+
+8. Limitation of liability and termination
+-----------------------------------------
+a. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+   OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OR OTHER DEALINGS IN THE SOFTWARE, EXCEPT WHERE A WRITTEN
+   WARRANTY IS PROVIDED AS STATED IN SECTION 7.
+
+b. Termination. Any violation of Sections 3 or 5 (including unauthorized
+   distribution of Source Code, reverse engineering, or false authorship
+   claims) shall automatically terminate the rights granted to the violating
+   party under this License. Terminated parties must cease use and
+   distribution of the Software and destroy all copies of the Software in
+   their possession. Termination does not affect recipients who received the
+   Software under this License prior to termination.
+
+9. Export controls and compliance
+---------------------------------
+The licensee shall comply with all applicable export and import laws and
+regulations. The licensee agrees not to use or transfer the Software in
+violation of any export control or sanctions program.
+
+10. Miscellaneous
+-----------------
+a. If any provision of this License is held to be unenforceable, the
+   remainder of the License shall remain in full force and effect.
+
+b. This License does not limit any rights the copyright owner may have to
+   pursue injunctive or other equitable relief for breaches of this License.
+
+c. This License does not change obligations under applicable law (including
+   but not limited to consumer protection laws or laws requiring disclosure
+   in certain circumstances).
+
+Version: OLL-1.0
